@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/projects/platformer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/5/XQ/MZO7I8INZJNN2TL2VX5XJ3.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/3/GS/AOQ9MNTCMZJNHWNQ7N9EEL.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/3/BO/ZZZDYHGUWTNOSQOUM2TM6Y.uasset",
+				"D:/projects/platformer/Content/map/platformer_map.umap",
+				"D:/projects/platformer/Content/__ExternalObjects__/map/platformer_map/5/0H/QWA6QOSXQWQJSA4MUPYEEA.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/7/UI/4DL3LOUPC4B3D7PQ2CV68W.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/E/XC/YU6CWYHA1P10MOZBPFQU62.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/8/R4/DM77YOSDKUC5ZMH1HQ22B4.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/9/EN/QP786K9L226I4DHL7W2MZO.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/5/RO/QVWF0QQ95JN7U384HNHZ7L.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/7/BN/LZU7VQSXUKI4BP1SM5RLOB.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/0/HH/JDEC90VV57LI241HVM8J3V.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/B/BF/5WAY17PLXCNZ1S6JS9AQ5C.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/D/OJ/6BJZJ59PEGVOIBTTYM0JVB.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/A/A2/W5KTEFKEFKLQ0A3EYVZM6P.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/5/1W/M3EM41QEHLC1AJDSFQGSMI.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/1/AT/JAAF8DO8YM216X4TN0C05K.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/6/PY/FRE5PBGARAZ5DD1K73FU1G.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/1/A3/7J52XKPKBOCRFVFS8JS41W.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/E/D3/M719TR3A9I6917SWLS3GRX.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/5/QL/13KRF1E2PASPNK80GPVHXH.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/2/IZ/B51YEGFUVGA4FCMDUOQDRS.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/A/E5/52GPFC5H024TUQYPVC08WN.uasset",
+				"D:/projects/platformer/Content/map/plate.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/E/RR/YYO06XBWDL80HADRDQOI8L.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/C/E4/6R50YIUJLJKVU1C55MV6IQ.uasset",
+				"D:/projects/platformer/Content/blueprints/traps/bp_damege_platform.uasset",
+				"D:/projects/platformer/Content/__ExternalActors__/map/platformer_map/5/2N/YER5C51PEXRD79WMUG4AIX.uasset",
+				"D:/projects/platformer/Content/blueprints/traps/test_damege_platform.uasset",
+				"D:/projects/platformer/Content/blueprints/traps/bp_damege_trap.uasset",
+				"D:/projects/platformer/Content/blueprints/traps/NewBlueprint.uasset",
+				"D:/projects/platformer/Content/blueprints/traps/damege_platform.uasset"
+			]
+		}
+	]
+}

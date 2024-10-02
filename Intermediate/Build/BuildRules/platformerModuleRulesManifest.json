@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\projects\\platformer\\Source\\platformer\\platformer.Build.cs",
+		"D:\\projects\\platformer\\Source\\platformer.Target.cs",
+		"D:\\projects\\platformer\\Source\\platformerEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

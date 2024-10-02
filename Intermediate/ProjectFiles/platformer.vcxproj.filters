@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\platformer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\platformer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\platformerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\platformer">
+      <UniqueIdentifier>{B5F867E2-893D-33E4-A6EA-55C593B5D094}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\platformer\platformer.Build.cs">
+      <Filter>Source\platformer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\platformer\platformer.cpp">
+      <Filter>Source\platformer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\platformer\platformer.h">
+      <Filter>Source\platformer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\platformer\platformerCharacter.cpp">
+      <Filter>Source\platformer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\platformer\platformerCharacter.h">
+      <Filter>Source\platformer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\platformer\platformerGameMode.cpp">
+      <Filter>Source\platformer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\platformer\platformerGameMode.h">
+      <Filter>Source\platformer</Filter>
+    </ClInclude>
+    <Filter Include="Source\platformer\Private">
+      <UniqueIdentifier>{3140A71F-C93B-3F5B-B2B8-844D514EFD37}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\platformer\Private\damege_platform.cpp">
+      <Filter>Source\platformer\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\platformer\Public">
+      <UniqueIdentifier>{413DC010-6A13-36A2-8731-EF6A60FB6140}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\platformer\Public\damege_platform.h">
+      <Filter>Source\platformer\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

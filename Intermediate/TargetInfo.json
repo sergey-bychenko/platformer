@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "platformer",
+			"Path": "..\\Source\\platformer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "platformerEditor",
+			"Path": "..\\Source\\platformerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
